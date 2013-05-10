@@ -2,6 +2,7 @@
 
 This is a [Redmine](http://redmine.org) plugin that displays latest activities on home page, just like [Github](https://github.com).
 
+
 ## installation
 
 ### with git:
@@ -21,8 +22,15 @@ mv redmine_home_activities-master redmine_home_activities
 rm master.zip
 ```
 
-Restart Redmine, then you're done!
+**Restart Redmine, then you're done!**
+
+
+## Screenshot
+
+![Screenshot](http://i.imgur.com/v9RD8pi.png "Screenshot")
+
 
 ## TODO
+
 * use ajax to load data
 * ajax endless scrolling
