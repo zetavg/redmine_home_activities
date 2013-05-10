@@ -1,0 +1,17 @@
+zh-TW:
+  activity_action_ago: "前"
+
+  activity_action_issue: "通報了"
+  activity_action_comment: "回覆了"
+  activity_action_edit: "編輯了"
+  activity_action_issue_edit: "更新了"
+  activity_action_close: "結束了"
+  activity_action_time_entry: "消耗工時"
+  activity_action_attachment: "上傳了"
+  activity_action_changeset: "提交了"
+  activity_action_news: "發佈了新聞"
+  activity_action_wiki_edit: "進行了"
+  activity_action_message: "發佈了"
+  activity_action_reply: "回覆了"
+  activity_action_contact: "編輯了聯絡人"
+  activity_action_unknown: "→"

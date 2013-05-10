@@ -1,0 +1,17 @@
+en:
+  activity_action_ago: " ago"
+
+  activity_action_issue: "opened issue"
+  activity_action_comment: "commented on issue"
+  activity_action_edit: "edited"
+  activity_action_issue_edit: "updated"
+  activity_action_close: "closes"
+  activity_action_time_entry: "spent time"
+  activity_action_attachment: "uploaded"
+  activity_action_changeset: "committed"
+  activity_action_news: "posted"
+  activity_action_wiki_edit: "has done"
+  activity_action_message: "posted"
+  activity_action_reply: "replied"
+  activity_action_contact: "edited content"
+  activity_action_unknown: "→"
